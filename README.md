@@ -7,3 +7,5 @@ Każdy klejnot ma inny kolor i porusza się wokół swojej osi, dodając grze el
 W lewym górnym rogu ekranu widoczna jest aktualna liczba zdobytych punktów. Możesz również nacisnąć klawisz spacji, aby zmienić kolor gracza w sposób losowy, dodając jeszcze więcej kolorów i wrażeń w grze.
 
 Gra jest prosta i przyjemna, zapewniająca ci możliwość wirtualnego eksplorowania tego kolorowego świata, zdobywania punktów i doceniania programu Erasmus+. Ciesz się grą i daj się wciągnąć w to wspaniałe doświadczenie!
+
+Jakub Łowczecki, IM II rok
